@@ -138,3 +138,11 @@ if (id < 2) {
 }
 
 })
+
+document.getElementById("question").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("op1").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("op2").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("op3").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("op4").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("1").style.fontFamily = "OCR A Std, monospace";
+document.getElementById("2").style.fontFamily = "OCR A Std, monospace";
