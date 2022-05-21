@@ -16,7 +16,7 @@ body{
     padding: 5px;
     width: 80vw;
     height: 10vh;
-    background-color: #c7dddf;
+    background-color: #eb7b13;
     font-size: x-large;
     text-align: center;
       
@@ -37,7 +37,7 @@ body{
     padding: 5px;
     width: 80vw;
     height: 20vh;
-    background-color: #9eb1b3;   
+    background-color: #ffffff;   
         
 }
 .option{    
@@ -58,7 +58,7 @@ body{
     padding: 5px;
     display: flex;
     justify-content: space-around;
-    background-color:#c7dddf;
+    background-color:#056625;
 }
   
 .evaluate,.next{
@@ -68,10 +68,10 @@ body{
     font-size: larger;
 }
 .evaluate{
-    
-    background-color: #50DBB4;
+    border-radius: 30%;
+    background-color: #ffffff;
 }
 .next{
-    color: white;
-    background-color: #BF3325;
+    border-radius: 30%;
+    background-color: #ffffff;
 }
